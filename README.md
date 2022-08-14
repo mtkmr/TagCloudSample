@@ -1,6 +1,6 @@
 # TagCloudSample
 
-A simple app to display tag cloud.
+A simple app to show tag cloud.
 
 # DEMO
 
